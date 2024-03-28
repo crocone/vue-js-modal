@@ -1,7 +1,7 @@
 {
   "name": "@crocone/vue-modal",
   "description": "Modal Component for Vue.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Сroc One <shevtsov@croc.one>",
   "main": "dist/index.js",
   "publishConfig": {

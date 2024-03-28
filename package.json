@@ -1,15 +1,15 @@
 {
-  "name": "vue-js-modal",
+  "name": "@crocone/vue-js-modal",
   "description": "Modal Component for Vue.js",
   "version": "2.0.1",
-  "author": "euvl <yev.dev@gmail.com>",
+  "author": "Сroc One <shevtsov@croc.one>",
   "main": "dist/index.js",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/euvl/vue-js-modal.git"
+    "url": "https://github.com/crocone/vue-js-modal.git"
   },
   "types": "types/index.d.ts",
   "keywords": [
